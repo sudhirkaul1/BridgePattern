@@ -1,0 +1,15 @@
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\bin\Debug\net7.0\BridgePatternApp.exe
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\bin\Debug\net7.0\BridgePatternApp.deps.json
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\bin\Debug\net7.0\BridgePatternApp.runtimeconfig.json
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\bin\Debug\net7.0\BridgePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\bin\Debug\net7.0\BridgePatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\obj\Debug\net7.0\BridgePatternApp.csproj.AssemblyReference.cache
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\obj\Debug\net7.0\BridgePatternApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\obj\Debug\net7.0\BridgePatternApp.AssemblyInfoInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\obj\Debug\net7.0\BridgePatternApp.AssemblyInfo.cs
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\obj\Debug\net7.0\BridgePatternApp.csproj.CoreCompileInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\obj\Debug\net7.0\BridgePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\obj\Debug\net7.0\refint\BridgePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\obj\Debug\net7.0\BridgePatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\obj\Debug\net7.0\BridgePatternApp.genruntimeconfig.cache
+C:\Sudhir\DotNet\DesignPatterns\BridgePattern\BridgePatternApp\obj\Debug\net7.0\ref\BridgePatternApp.dll
